@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    function.definition: reverse
+#    function.definition: hello
+#    function.definition: greet
+
+
